@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - kiteco.kite@0.109.0:5JGG8ShofGbQkrlfxHq5ZQ==
